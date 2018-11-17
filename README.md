@@ -2,7 +2,16 @@
 
 > This repo is for those who attended the Vue/Nuxt sLab at Sytac in November 2018.
 
-## Requirements:
+## Installation
+
+Clone the repo into a folder and then `cd` to that folder
+
+```bash
+npm install
+npm run dev
+```
+
+_Please note: I do not have a Windows machine and thus can only hope and pray this repo will run on such a beast._
 
 ## Resources:
 
