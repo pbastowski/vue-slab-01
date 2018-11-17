@@ -45,3 +45,7 @@ Prior knowledge of basic VueJs is assumed. To join in some coding, please make s
 
 -   NodeJs 8.x or higher
 -   latest npm or yarn
+
+## License
+
+MIT
